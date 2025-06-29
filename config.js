@@ -1,6 +1,6 @@
 //-----------------Config-----------------
-var title = "Server name";
-var link = "Zua is gay";
+var title = "The Annidope RP";
+var link = "Dirty Souf";
 //---------------End Config---------------
 
 
